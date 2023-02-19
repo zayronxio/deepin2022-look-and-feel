@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg29"
+   sodipodi:docname="touchpad.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31"
+     pagecolor="#c8c8c8"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="-85.02959"
+     inkscape:cy="-10.783378"
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg29"
+     inkscape:object-nodes="false"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid848" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3">
+    <style
+       id="current-color-scheme"
+       type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-NegativeText {
+        color:#da4453;
+      }</style>
+  </defs>
+  <path
+     d="m 70,32 v 32 h 32 V 32 Z"
+     fill="none"
+     id="path12" />
+  <g
+     id="touchpad_enabled">
+    <rect
+       style="opacity:0.8;fill:#000000;fill-opacity:0.16;stroke-width:0.685714;stroke-linecap:round"
+       id="rect890"
+       width="32"
+       height="32"
+       x="1.8146973e-06"
+       y="-32"
+       ry="9"
+       transform="rotate(90)" />
+    <rect
+       y="-2e-06"
+       width="32"
+       height="32"
+       ry="0.63999999"
+       fill-opacity="0"
+       id="rect14"
+       x="0"
+       style="color:#363636;fill:#363636" />
+    <g
+       id="g3218"
+       transform="translate(18)">
+      <path
+         id="path3212"
+         style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
+         d="m -8,7 c -1.662,0 -3,1.338 -3,3 v 12 c 0,1.662 1.338,3 3,3 H 4 c 1.662,0 3,-1.338 3,-3 V 10 C 7,8.338 5.662,7 4,7 Z m 0,1 H 4 c 1.108,0 2,0.892 2,2 v 12 c 0,1.108 -0.892,2 -2,2 H -8 c -1.108,0 -2,-0.892 -2,-2 V 10 c 0,-1.108 0.892,-2 2,-2 z" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-width:1.06066;stroke-linejoin:round"
+         id="rect3214"
+         width="18"
+         height="1"
+         x="-11"
+         y="20"
+         ry="0" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
+         id="rect3216"
+         width="1"
+         height="5"
+         x="-3"
+         y="20" />
+    </g>
+  </g>
+  <g
+     id="touchpad_disabled">
+    <rect
+       style="opacity:0.8;fill:#000000;fill-opacity:0.16;stroke-width:0.685714;stroke-linecap:round"
+       id="rect3258"
+       width="32"
+       height="32"
+       x="-36.999996"
+       y="-32"
+       ry="9"
+       transform="rotate(90)" />
+    <rect
+       y="-37"
+       width="32"
+       height="32"
+       ry="0.63999999"
+       fill-opacity="0"
+       id="rect3260"
+       x="0"
+       style="color:#363636;fill:#363636" />
+    <g
+       id="g3268"
+       transform="translate(18,-36.999998)">
+      <path
+         id="path3262"
+         style="fill:#969696;fill-opacity:0.99927598;stroke-linejoin:round"
+         d="m -8,7 c -1.662,0 -3,1.338 -3,3 v 12 c 0,1.662 1.338,3 3,3 H 4 c 1.662,0 3,-1.338 3,-3 V 10 C 7,8.338 5.662,7 4,7 Z m 0,1 H 4 c 1.108,0 2,0.892 2,2 v 12 c 0,1.108 -0.892,2 -2,2 H -8 c -1.108,0 -2,-0.892 -2,-2 V 10 c 0,-1.108 0.892,-2 2,-2 z" />
+      <rect
+         style="fill:#969696;fill-opacity:0.99927598;stroke-width:1.06066;stroke-linejoin:round"
+         id="rect3264"
+         width="18"
+         height="1"
+         x="-11"
+         y="20"
+         ry="0" />
+      <rect
+         style="fill:#969696;fill-opacity:0.99927598;stroke-linejoin:round"
+         id="rect3266"
+         width="1"
+         height="5"
+         x="-3"
+         y="20" />
+    </g>
+    <path
+       class="ColorScheme-NegativeText"
+       d="m 12,-26 3.293,3.293 -3.293,3.293 c 0.013,0.025 0.707,0.707 0.707,0.707 L 16,-22 19.293,-18.707 20,-19.414 16.707,-22.707 20,-26 19.293,-26.707 16,-23.414 12.707,-26.707 Z"
+       fill="currentColor"
+       id="path10347"
+       style="fill:#ff3232;fill-opacity:1" />
+  </g>
+  <path
+     d="m -54,32 v 22 h 22 V 32 Z"
+     fill="none"
+     id="path10690" />
+  <g
+     id="22-22-touchpad_enabled">
+    <rect
+       transform="rotate(90)"
+       x="8"
+       y="5"
+       width="22"
+       height="22"
+       ry="6.4166999"
+       fill="#ffffff"
+       opacity="0.8"
+       stroke-linecap="round"
+       stroke-width="0.47143"
+       id="rect141"
+       style="fill:#ffffff;fill-opacity:1" />
+    <g
+       id="g15460"
+       transform="translate(-14.5,-22.5)">
+      <path
+         id="rect10737"
+         style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
+         d="m -5,35 c -1.662,0 -3,1.338 -3,3 v 7 c 0,1.662 1.338,3 3,3 h 7 c 1.662,0 3,-1.338 3,-3 V 38 C 5,36.338 3.662,35 2,35 Z m 0,1 h 7 c 1.108,0 2,0.892 2,2 v 7 c 0,1.108 -0.892,2 -2,2 h -7 c -1.108,0 -2,-0.892 -2,-2 v -7 c 0,-1.108 0.892,-2 2,-2 z" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
+         id="rect15293"
+         width="13"
+         height="1"
+         x="-8"
+         y="44"
+         ry="0.5" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke-linejoin:round"
+         id="rect15295"
+         width="1"
+         height="4"
+         x="-2"
+         y="44"
+         ry="0.5" />
+    </g>
+  </g>
+  <g
+     id="22-22-touchpad_disabled">
+    <rect
+       transform="rotate(90)"
+       x="-29.5"
+       y="5"
+       width="22"
+       height="22"
+       ry="6.4166999"
+       fill="#ffffff"
+       opacity="0.8"
+       stroke-linecap="round"
+       stroke-width="0.47143"
+       id="rect15469"
+       style="fill:#ffffff;fill-opacity:1" />
+    <g
+       id="g15477"
+       transform="translate(-14.5,-60)">
+      <path
+         id="path15471"
+         style="fill:#969696;fill-opacity:0.99927598;stroke-linejoin:round"
+         d="m -5,35 c -1.662,0 -3,1.338 -3,3 v 7 c 0,1.662 1.338,3 3,3 h 7 c 1.662,0 3,-1.338 3,-3 V 38 C 5,36.338 3.662,35 2,35 Z m 0,1 h 7 c 1.108,0 2,0.892 2,2 v 7 c 0,1.108 -0.892,2 -2,2 h -7 c -1.108,0 -2,-0.892 -2,-2 v -7 c 0,-1.108 0.892,-2 2,-2 z" />
+      <rect
+         style="fill:#969696;fill-opacity:0.99927598;stroke-linejoin:round"
+         id="rect15473"
+         width="13"
+         height="1"
+         x="-8"
+         y="44"
+         ry="0.5" />
+      <rect
+         style="fill:#969696;fill-opacity:0.99927598;stroke-linejoin:round"
+         id="rect15475"
+         width="1"
+         height="4"
+         x="-2"
+         y="44"
+         ry="0.5" />
+    </g>
+    <path
+       class="ColorScheme-NegativeText"
+       d="M -18.152344,-23 -19,-22.152344 -16.847656,-20 -19,-17.847656 -18.152344,-17 -16,-19.152344 -13.847656,-17 -13,-17.847656 -15.152344,-20 -13,-22.152344 -13.847656,-23 -16,-20.847656 Z"
+       fill="currentColor"
+       id="path15804"
+       style="fill:#ff3232;fill-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Deepin2022-Dark
+Comment=Deepin2022-Dark theme for kde plasma
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-PluginInfo-Author=zayronxio
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=zayronxio@gmail.com
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=com.github.zayronxio.Deepin2022-dark
+X-KDE-PluginInfo-Version=1.0.4
+X-KDE-PluginInfo-Website=github.com/zayronxio/deepin2022-look-and-feel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1851730,kns://plasma-themes.knsrc/api.kde-look.org/1990227,kns://aurorae.knsrc/api.kde-look.org/1415016,kns://icons.knsrc/api.kde-look.org/1678986,kns://icons.knsrc/api.kde-look.org/1400021,kns://wallpaper.knsrc/api.kde-look.org/1410698,kns://wallpaper.knsrc/api.kde-look.org/1861470,kns://xcursor.knsrc/api.kde-look.org/1422127,kns://plasmoids.knsrc/api.kde-look.org/1386465,kns://plasmoids.knsrc/api.kde-look.org/1473016,kns://plasmoids.knsrc/api.kde-look.org/1295376
